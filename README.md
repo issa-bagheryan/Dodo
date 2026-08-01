@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/0d88f698-223b-4313-bb10-b544d0df04e8" />
 # Dodo 🦤
 
 An AI-powered desktop to-do list application that allows users to manage tasks using natural language.
