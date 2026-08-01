@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/0d88f698-223b-4313-bb10-b544d0df04e8" />
+<img width="1600" height="900" alt="Frame 1 (8)" src="https://github.com/user-attachments/assets/07d49a74-3c1c-4656-80a6-edad3b18f6ea" />
 
 # Dodo 🦤
 
